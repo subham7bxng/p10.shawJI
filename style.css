@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #F5EBEB;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #867070;
+}
+
+img {
+    width: 40rem;
+    height: 30rem;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 20px;
+    color: #867070;
+}
+
+h5 {
+    font-size: xx-large;
+    color: red;
+}
+
+h6 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    color: #867070;
+}
+
+p {
+    font-size: x-large;
+    color: rgb(153, 44, 44);
+}
+
+.heybuddy{
+    text-align: center;
+}
